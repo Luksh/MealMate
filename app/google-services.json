@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185240186031",
+    "project_id": "ismt-amd-2025",
+    "storage_bucket": "ismt-amd-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185240186031:android:de022627225ade7eaa785a",
+        "android_client_info": {
+          "package_name": "np.com.ismt.laxman.mealmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQMRkGuScTKq2ZLlElqtN51EjyiEaBNBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

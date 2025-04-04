@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Meal Mate</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_recipes">Recipes</string>
+    <string name="title_meals">Meals</string>
+    <string name="title_shopping">Shopping</string>
+    <string name="title_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="recipe_category">
+        <item>Veg</item>
+        <item>Non-Veg</item>
+        <item>Vegan</item>
+    </string-array>
+</resources>
